@@ -1,0 +1,22 @@
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes.dex : \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$1.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$2.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$3.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$4.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$5.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$6.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$7.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$BeaconConnected.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$PluginConnectingListener.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$PluginMonitoringListener.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons$PluginRangingListener.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/evothings/EstimoteBeacons.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/gennovacap/evothings/BuildConfig.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/gennovacap/evothings/Evothings.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/gennovacap/evothings/R$attr.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/gennovacap/evothings/R$drawable.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/gennovacap/evothings/R$string.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/gennovacap/evothings/R$xml.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/classes/com/gennovacap/evothings/R.class \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/dexedLibs/classes-c98cb7a1a00b93e584a7e6e4c569e36f.jar \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/ant-build/dexedLibs/estimote-sdk-preview-b5f9c23a0ec9ccadee676c5bb71ff4f7.jar \
