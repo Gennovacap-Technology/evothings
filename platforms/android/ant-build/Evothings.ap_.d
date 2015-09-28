@@ -32,10 +32,12 @@
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/app.js \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/cordova.js \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/cordova_plugins.js \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/css \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/index.html \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/libs \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/plugins \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/ui \
+/Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/css/app.css \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/libs/evothings \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/libs/jquery \
 /Users/nemesis/Development/phonegap/evothings/platforms/android/assets/www/libs/evothings/evothings.js \
